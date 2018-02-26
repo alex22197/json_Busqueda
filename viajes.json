@@ -1,0 +1,43 @@
+
+{
+
+"viajes":
+	[
+	{
+		"dias":12,
+		"pais":"EEUU",	
+
+
+	},
+	{
+		"dias":4,
+		"pais":"España",
+	
+
+	},
+	{
+		"dias":6,
+		"pais":"Italia",
+	
+
+	},
+	{
+		"dias":10,
+		"pais":"Rusia",
+	
+
+	},
+	{
+		"dias":15,
+		"pais":"Japon",	
+
+
+	},
+	{
+		"dias":7,
+		"pais":"Rumania",
+
+
+	}
+	]
+}
